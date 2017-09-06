@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">InboxStyleNotification</string>
+    <string name="tvHandleNotification">You can handle notification intent here.</string>
+    <string name="title_activity_main">Notification</string>
+
+</resources>
